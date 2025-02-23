@@ -10,7 +10,7 @@
   <img align="center" alt="Jeka-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
    
-  ## Minhas Redes:
+  ## Social Profiles:
  
 <div> 
   <a href="https://www.youtube.com/channel/UCviJZRYZXkOu34zVjyNROHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -21,3 +21,12 @@
   <a href="https://www.linkedin.com/in/jessicaculceag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## Detailed information
+
+* **Name**: Jessica Culceag
+* **Age**: Since 1992
+* **Living in**: São Paulo - SP, Brazil
+* **Stack**: .NET Core - C# - Angular - Bootstrap - SQL - Azure
+* **Learning**: React and Swift
+* **University**: Universidade Nove de Julho - Uninove
