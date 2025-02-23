@@ -31,5 +31,5 @@
 * **Learning**: React and Swift
 * **University**: Universidade Nove de Julho - Uninove
 
-  ## Like me and my projects?
+## Like me and my projects?
 <a href="https://buymeacoffee.com/jculceagl">Buy my a coffee ☕️</a>
