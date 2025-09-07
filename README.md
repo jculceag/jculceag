@@ -33,3 +33,8 @@
 
 ## Like me and my projects?
 <a href="https://buymeacoffee.com/jculceagl">Buy my a coffee ☕️</a>
+
+<div>
+    <h2 align="left">📊 My stats in 2025</h2>
+    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
+</div>
