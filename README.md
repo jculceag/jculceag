@@ -44,8 +44,8 @@
 
 </div>
 
-## Like me and my projects?
-<a href="https://buymeacoffee.com/jculceagl">Buy my a coffee ☕️</a>
+## Gostou de mim ou dos meus projetos? 👀
+<a href="https://buymeacoffee.com/jculceagl">Me paga um caféziiiin ☕️</a>
 
 <div>
     <h2 align="left">📊 My stats in 2025</h2>
