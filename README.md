@@ -1,4 +1,4 @@
-## Oie eu sou a Jessica Culceag 🖐️
+## Fala meu povo 🐙, me chamo Jessica Culceag 🖐️
 
 <div> 
   <h2 align="left">📲 Redes Sociais</h2>
@@ -24,6 +24,7 @@
   
   <img align="center" alt="azure logo" height="30" width="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
+  </br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo"  />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" alt="react logo"  />  
