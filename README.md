@@ -1,21 +1,8 @@
 ## Oie eu sou a Jessica Culceag 🖐️
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeka-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--<img align="center" alt="Jeka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="Jeka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--img align="center" alt="Jeka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="center" alt="Jeka-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="azure logo" height="30" width="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  
-</div>
-   
-  ## Redes Sociais:
- 
 <div> 
+  <h2 align="left">📲 Redes Sociais</h2>
+
   <a href="https://www.youtube.com/channel/UCviJZRYZXkOu34zVjyNROHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jessicaculceag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jessicaculceag" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -25,14 +12,19 @@
   
 </div>
 
-## Detailed information
+<div style="display: inline_block"><br>
+  <h2 align="left">💻 Tech Stack</h2>
+  <img align="center" alt="Jeka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jeka-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <!--<img align="center" alt="Jeka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="Jeka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--img align="center" alt="Jeka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
+  <img align="center" alt="Jeka-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <img align="center" alt="azure logo" height="30" width="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
-* **Nome**: Jessica Culceag
-* **Idade**: Nascida em 1992
-* **Nascida em**: São Paulo - SP, Brazil
-* **Stack**: .NET Core - C# - Angular - Bootstrap - SQL - Azure
-* **Learning**: React and Swift
-* **University**: Universidade Nove de Julho - Uninove
+</div>
 
 ## Like me and my projects?
 <a href="https://buymeacoffee.com/jculceagl">Buy my a coffee ☕️</a>
