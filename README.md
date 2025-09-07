@@ -1,5 +1,4 @@
-## Fala meu povo 🐙
-## Eu sou a Jessica Culceag 🖐️
+## Fala meu povo 🐙 eu sou a Jessica Culceag 🖐️
 
 <div> 
   <h2 align="left">📲 Redes Sociais</h2>
