@@ -8,9 +8,12 @@
   <img align="center" alt="Jeka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--img align="center" alt="Jeka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="Jeka-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <img align="center" alt="azure logo" height="30" width="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  
 </div>
    
-  ## Social Profiles:
+  ## Redes Sociais:
  
 <div> 
   <a href="https://www.youtube.com/channel/UCviJZRYZXkOu34zVjyNROHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -24,9 +27,9 @@
 
 ## Detailed information
 
-* **Name**: Jessica Culceag
-* **Age**: Since 1992
-* **Living in**: São Paulo - SP, Brazil
+* **Nome**: Jessica Culceag
+* **Idade**: Nascida em 1992
+* **Nascida em**: São Paulo - SP, Brazil
 * **Stack**: .NET Core - C# - Angular - Bootstrap - SQL - Azure
 * **Learning**: React and Swift
 * **University**: Universidade Nove de Julho - Uninove
