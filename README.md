@@ -49,6 +49,6 @@
 
 <div>
     <h2 align="left">📊 My stats in 2025</h2>
-    <img alt="WakaTime" src="https://github-readme-stats-git-main-jculceag-projects.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
+    <img alt="WakaTime" src="https://github-readme-stats-git-main-jculceag-projects.vercel.app/api?username=jculceag&theme=dark&layout=compact"/>
     
 </div>
