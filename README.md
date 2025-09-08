@@ -48,7 +48,7 @@
 <a href="https://buymeacoffee.com/jculceagl">Me paga um caféziiiin ☕️</a>
 
 <div>
-    <h2 align="left">📊 My stats in 2025</h2>
-    <img alt="WakaTime" src="https://github-readme-stats-git-main-jculceag-projects.vercel.app/api?username=jculceag&theme=dark&layout=compact"/>
+    <h2 align="left">📊</h2>
+    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
     
 </div>
