@@ -47,6 +47,6 @@
 
 <div>
     <h2 align="left">📊</h2>
-    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
+    <img alt="WakaTime" src="https://github-readme-stats-git-main-jculceag-projects.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
     
 </div>
