@@ -23,29 +23,6 @@
 
 <div style="display: inline_block"><br>
 
-<p align="center">
-    <a href="https://github.com/jculceag/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/jculceag/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/jculceag/github-readme-stats">
-      <img src="https://codecov.io/gh/jculceag/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/jculceag/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/jculceag/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/jculceag/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jculceag/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
-
   <h2  align="left">💻 Tech Stack</h2>
   <img align="center" alt="Jeka-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeka-Ts"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
