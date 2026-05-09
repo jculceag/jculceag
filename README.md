@@ -160,6 +160,18 @@ Antes de adicionar complexidade, eu tento remover desperdício.
 
 ## 📊 Estatísticas
 
-<div>
-  <img alt="WakaTime" src="https://github-readme-stats-git-main-jculceag-projects.vercel.app/api/wakatime?username=jculceag&theme=dark&layout=compact"/>
-</div>
+<p align="left">
+  <img 
+    height="170"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=jculceag&show_icons=true&theme=dark&hide_border=true&count_private=true"
+  />
+</p>
+
+<p align="left">
+  <img 
+    height="170"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jculceag&layout=compact&theme=dark&hide_border=true"
+  />
+</p>
