@@ -1,7 +1,7 @@
 <h1 align="left">Fala meu povo 🐙 Eu sou a Jessica Culceag 👋</h1>
 
 <p align="left">
-  Empresária, desenvolvedora, especialista em vendas Apple e fundadora da <strong>GK Store</strong>, <strong>MobSystem</strong>, <strong>Práksis</strong>, <strong>Grossk</strong> e <strong>Rekover</strong>.
+  Empresária, desenvolvedora, especialista em vendas Apple e fundadora da <strong>MobSystem</strong>, <strong>GK Store</strong>, <strong>Práksis</strong>, <strong>Grossk</strong> e <strong>Rekover</strong>.
 </p>
 
 <p align="left">
