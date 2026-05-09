@@ -1,46 +1,62 @@
 <h1 align="left">Fala meu povo 🐙 Eu sou a Jessica Culceag 👋</h1>
 
 <p align="left">
-  Empresária, desenvolvedora e fundadora da <strong>GK Store</strong>, <strong>MobSystem</strong>, <strong>Práksis</strong>, <strong>Grossk</strong> e <strong>Rekover</strong>.
+  Empresária, desenvolvedora, especialista em vendas Apple e fundadora da <strong>GK Store</strong>, <strong>MobSystem</strong>, <strong>Práksis</strong>, <strong>Grossk</strong> e <strong>Rekover</strong>.
 </p>
 
 <p align="left">
-  Trabalho com tecnologia, produtos Apple, gestão de lojas, vendas e desenvolvimento de soluções digitais para negócios reais.
-  Desde 2017 vivo o dia a dia de loja, estoque, atendimento, venda, assistência técnica e gestão. Foi dessa rotina que nasceu a MobSystem, uma plataforma criada para ajudar lojistas de smartphones a terem mais controle, clareza e organização.
+  Minha trajetória começou na tecnologia em 2011, quando entrei na área de T.I. Sou formada em Análise e Desenvolvimento de Sistemas e, desde então, venho unindo desenvolvimento, gestão, vendas e melhoria de processos para criar soluções que resolvem problemas reais de operação.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou a Jessica Culceag, especialista em vendas de produtos Apple, empresária e desenvolvedora.
+Sou a Jessica Culceag, empresária, desenvolvedora e especialista em vendas de produtos Apple.
 
-Minha trajetória une duas áreas que sempre caminharam juntas na minha vida: tecnologia e negócio.
+Comecei minha carreira em tecnologia em 2011, atuando com desenvolvimento de sistemas e aprendendo na prática como a tecnologia pode simplificar processos, reduzir desperdícios e tornar empresas mais eficientes.
 
-Antes de criar produtos digitais, eu vivi a operação na prática. Controle de estoque, atendimento ao cliente, vendas, financeiro, assistência técnica, precificação, equipe, metas, comissão e tomada de decisão. Isso me fez enxergar problemas reais que muitos lojistas enfrentam todos os dias.
+Com formação em Análise e Desenvolvimento de Sistemas, construí minha base técnica antes de entrar de vez no mundo dos negócios. Essa combinação entre T.I. e operação foi o que moldou minha forma de pensar: gosto de criar soluções simples, úteis e conectadas com a realidade de quem usa.
 
-Hoje, uso tecnologia para transformar essas dores em soluções simples, objetivas e úteis.
+Em 2017, entrei no mercado de produtos Apple e fundei a GK Store, empresa focada em importação e revenda de produtos Apple. Foi vivendo o dia a dia da loja que passei a lidar diretamente com estoque, vendas, atendimento, financeiro, assistência técnica, precificação, metas, comissão e tomada de decisão.
+
+Dessa rotina nasceu a MobSystem, uma plataforma de gestão criada inicialmente para resolver as necessidades internas da GK Store e que depois evoluiu para atender outros lojistas do setor mobile.
+
+Hoje, meu foco é unir visão técnica, experiência comercial e vivência real de operação para criar produtos, processos e conteúdos que ajudem lojistas a venderem melhor, organizarem suas empresas e tomarem decisões com mais clareza.
 
 ---
 
-## 🧠 No que eu trabalho hoje
+## 🧠 Minha trajetória em uma linha
+
+T.I. desde 2011 → Desenvolvimento de Sistemas → GK Store → Operação real de loja → MobSystem → Gestão para lojistas
+
+---
+
+## 🏢 Empresas e projetos
 
 ### 📱 GK Store
-Importação e venda de produtos Apple, com foco em atendimento, confiança, operação e experiência de compra.
+
+A GK Store é uma empresa de importação e revenda de produtos Apple.
+
+Foi através da GK que aprofundei minha experiência com vendas, atendimento, estoque, logística, negociação, precificação e gestão comercial no mercado mobile.
 
 ### 💙 MobSystem
-Sistema de gestão para lojas de smartphones e assistência técnica.
 
-A MobSystem nasceu como um sistema interno da GK Store e evoluiu para uma plataforma feita por quem realmente vive a rotina de loja.
+A MobSystem é um sistema de gestão para lojas de smartphones e assistência técnica.
+
+Ela nasceu como um sistema interno da GK Store, criado para resolver dores reais da operação, e hoje tem como objetivo ajudar lojistas a terem mais controle sobre vendas, estoque, financeiro, ordem de serviço, metas, comissões e relatórios.
 
 ### 🎓 Práksis
-Escola para lojistas, com conteúdos, mentorias e materiais para quem quer vender melhor, organizar processos e crescer com mais estratégia.
+
+A Práksis é uma escola para lojistas, criada para compartilhar conhecimento prático sobre vendas, gestão, processos e operação no mercado de smartphones.
 
 ### 🛠️ Rekover
-Assistência técnica especializada em eletrônicos, incluindo iPhones, notebooks e outros dispositivos.
+
+A Rekover é uma assistência técnica especializada em eletrônicos, incluindo iPhones, notebooks e outros dispositivos.
 
 ### 🛍️ Grossk
-Marca de acessórios premium.
+
+A Grossk é uma marca de acessórios premium.
 
 ---
 
@@ -81,17 +97,21 @@ Automações para reduzir trabalho manual
 Dashboards e relatórios que ajudam na tomada de decisão  
 Produtos digitais com aplicação prática  
 Interfaces simples para problemas complexos  
+Processos mais enxutos com foco em eficiência operacional  
 
 ---
 
-## 📌 Projetos e interesses
+## 📌 Atualmente estou focada em
 
-Atualmente estou focada em evoluir a MobSystem, criando soluções para:
+Evoluir a MobSystem como uma plataforma de gestão simples, objetiva e prática para lojistas do setor mobile.
+
+Principais frentes:
 
 Controle de estoque  
 Vendas  
 Ordem de serviço  
 Gestão financeira  
+Crediário  
 Metas e comissões  
 Precificação  
 Simulador de taxas  
@@ -99,6 +119,20 @@ Relatórios operacionais
 Suporte para lojas de smartphones e assistências técnicas  
 
 Também estou estudando Swift para levar a experiência da MobSystem para iPhone e iPad.
+
+---
+
+## 🧩 Minha forma de pensar produto
+
+Eu acredito que tecnologia boa não é a mais complicada, é a que resolve o problema com clareza.
+
+Minha visão de produto vem da prática:
+
+Antes de criar uma funcionalidade, eu olho para a dor da operação.  
+Antes de pensar em tela bonita, eu penso se o usuário vai entender o que precisa fazer.  
+Antes de adicionar complexidade, eu tento remover desperdício.  
+
+É aqui que minha base em T.I., minha vivência em loja e minha visão de gestão se encontram.
 
 ---
 
