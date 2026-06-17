@@ -1,62 +1,99 @@
 <h1 align="left">Fala meu povo 🐙 Eu sou a Jessica Culceag 👋</h1>
 
 <p align="left">
-  Empresária, desenvolvedora, especialista em vendas Apple e fundadora da <strong>MobSystem</strong>, <strong>GK Store</strong>, <strong>Práksis</strong>, <strong>Grossk</strong> e <strong>Rekover</strong>.
+  Tech Lead, Especialista em Sistemas e Desenvolvedora Full Stack, com experiência em .NET, Angular, Azure, ERP, SaaS, produto digital e liderança técnica.
 </p>
 
 <p align="left">
-  Minha trajetória começou na tecnologia em 2011, quando entrei na área de T.I. Sou formada em Análise e Desenvolvimento de Sistemas e, desde então, venho unindo desenvolvimento, gestão, vendas e melhoria de processos para criar soluções que resolvem problemas reais de operação.
+  Minha trajetória começou na tecnologia em 2011. Desde então, venho unindo desenvolvimento de software, arquitetura, gestão, vendas e melhoria de processos para criar soluções que resolvem problemas reais de operação.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou a Jessica Culceag, empresária, desenvolvedora e especialista em vendas de produtos Apple.
+Sou a Jessica Culceag, profissional de tecnologia com mais de 12 anos de experiência em desenvolvimento de sistemas, liderança técnica, arquitetura de soluções e criação de produtos digitais.
 
-Comecei minha carreira em tecnologia em 2011, atuando com desenvolvimento de sistemas e aprendendo na prática como a tecnologia pode simplificar processos, reduzir desperdícios e tornar empresas mais eficientes.
+Sou formada em Análise e Desenvolvimento de Sistemas e construí minha carreira atuando em sistemas corporativos, saúde suplementar, integrações, automações, DevOps, metodologias ágeis, Lean e liderança de squads.
 
-Com formação em Análise e Desenvolvimento de Sistemas, construí minha base técnica antes de entrar de vez no mundo dos negócios. Essa combinação entre T.I. e operação foi o que moldou minha forma de pensar: gosto de criar soluções simples, úteis e conectadas com a realidade de quem usa.
+Ao longo da minha trajetória, atuei em empresas como Orizon, Nubank e Inova Tecnologia, participando de projetos de desenvolvimento, arquitetura, sustentação, evolução de sistemas, faturamento, integração com processadores, definição de padrões técnicos e melhoria contínua de processos.
 
-Em 2017, entrei no mercado de produtos Apple e fundei a GK Store, empresa focada em importação e revenda de produtos Apple. Foi vivendo o dia a dia da loja que passei a lidar diretamente com estoque, vendas, atendimento, financeiro, assistência técnica, precificação, metas, comissão e tomada de decisão.
+Nos últimos anos, também criei e evoluí a MobSystem, um ERP SaaS voltado para gestão de estoque, vendas, financeiro, clientes e relatórios para lojistas do setor de tecnologia.
 
-Dessa rotina nasceu a MobSystem, uma plataforma de gestão criada inicialmente para resolver as necessidades internas da GK Store e que depois evoluiu para atender outros lojistas do setor mobile.
+Essa experiência fortaleceu minha visão de produto, negócio, operação e usuário real, conectando tecnologia com problemas práticos do dia a dia.
 
-Hoje, meu foco é unir visão técnica, experiência comercial e vivência real de operação para criar produtos, processos e conteúdos que ajudem lojistas a venderem melhor, organizarem suas empresas e tomarem decisões com mais clareza.
+Hoje, meu foco é atuar em projetos que unam tecnologia, produto, gestão e impacto real para negócios.
 
 ---
 
 ## 🧠 Minha trajetória em uma linha
 
-T.I. desde 2011 → Desenvolvimento de Sistemas → GK Store → Operação real de loja → MobSystem → Gestão para lojistas
+T.I. desde 2011 → Desenvolvimento de Sistemas → Arquitetura → Liderança Técnica → Produto Digital → ERP SaaS → Gestão e Automação para negócios reais
 
 ---
 
-## 🏢 Empresas e projetos
-
-### 📱 GK Store
-
-A GK Store é uma empresa de importação e revenda de produtos Apple.
-
-Foi através da GK que aprofundei minha experiência com vendas, atendimento, estoque, logística, negociação, precificação e gestão comercial no mercado mobile.
+## 💼 Experiência e atuação
 
 ### 💙 MobSystem
 
-A MobSystem é um sistema de gestão para lojas de smartphones e assistência técnica.
+A MobSystem é um ERP SaaS voltado para gestão de estoque, vendas, financeiro, clientes e relatórios para lojistas do setor de tecnologia.
 
-Ela nasceu como um sistema interno da GK Store, criado para resolver dores reais da operação, e hoje tem como objetivo ajudar lojistas a terem mais controle sobre vendas, estoque, financeiro, ordem de serviço, metas, comissões e relatórios.
+Na MobSystem, atuo na criação, desenvolvimento e evolução do produto, conectando visão técnica, regras de negócio, experiência do usuário e necessidades reais de operação.
+
+Principais frentes:
+
+• Levantamento de requisitos  
+• Definição de produto  
+• Arquitetura funcional  
+• Desenvolvimento de funcionalidades  
+• Priorização de backlog  
+• Melhorias de UX  
+• Automações  
+• Relatórios operacionais  
+• Gestão financeira  
+• Acompanhamento de usuários reais em produção  
+
+---
+
+### 📱 Operações e tecnologia para varejo
+
+Minha vivência com operações de varejo e atacado no segmento de eletrônicos contribuiu diretamente para a criação de soluções digitais mais aderentes à rotina de empresas reais.
+
+Essa experiência trouxe uma visão prática sobre:
+
+• Gestão de estoque  
+• Atendimento ao cliente  
+• Controle financeiro  
+• Precificação  
+• Fornecedores  
+• Pós venda  
+• Logística  
+• Vendas  
+• Metas e comissões  
+• Processos operacionais  
+• Tomada de decisão  
+
+Essa conexão entre tecnologia e operação é uma das bases da minha forma de construir produtos.
+
+---
 
 ### 🎓 Práksis
 
-A Práksis é uma escola para lojistas, criada para compartilhar conhecimento prático sobre vendas, gestão, processos e operação no mercado de smartphones.
+A Práksis é um projeto educacional voltado para lojistas e empreendedores que desejam profissionalizar vendas, gestão, processos e operação.
+
+A ideia é transformar experiência prática de mercado em conteúdo aplicável para quem vive o dia a dia do negócio.
+
+---
 
 ### 🛠️ Rekover
 
-A Rekover é uma assistência técnica especializada em eletrônicos, incluindo iPhones, notebooks e outros dispositivos.
+A Rekover é um projeto ligado à assistência técnica e serviços especializados em eletrônicos.
+
+---
 
 ### 🛍️ Grossk
 
-A Grossk é uma marca de acessórios premium.
+A Grossk é uma marca de acessórios premium, criada com foco em produtos para o mercado mobile.
 
 ---
 
@@ -65,8 +102,8 @@ A Grossk é uma marca de acessórios premium.
 <p align="left">
   <img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="CSharp" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -75,60 +112,54 @@ A Grossk é uma marca de acessórios premium.
 </p>
 
 <p align="left">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
 
 ## 🛠️ O que eu gosto de construir
 
-Sistemas de gestão para negócios reais  
-Ferramentas para lojistas venderem melhor  
-Automações para reduzir trabalho manual  
-Dashboards e relatórios que ajudam na tomada de decisão  
-Produtos digitais com aplicação prática  
-Interfaces simples para problemas complexos  
-Processos mais enxutos com foco em eficiência operacional  
+• Sistemas de gestão para negócios reais  
+• Ferramentas para otimizar operação  
+• Automações para reduzir trabalho manual  
+• Dashboards e relatórios para tomada de decisão  
+• Produtos digitais com aplicação prática  
+• Interfaces simples para problemas complexos  
+• Processos mais enxutos com foco em eficiência operacional  
+• Soluções que conectam tecnologia, produto e negócio  
 
 ---
 
 ## 📌 Atualmente estou focada em
 
-Evoluir a MobSystem como uma plataforma de gestão simples, objetiva e prática para lojistas do setor mobile.
-
-Principais frentes:
-
-Controle de estoque  
-Vendas  
-Ordem de serviço  
-Gestão financeira  
-Crediário  
-Metas e comissões  
-Precificação  
-Simulador de taxas  
-Relatórios operacionais  
-Suporte para lojas de smartphones e assistências técnicas  
-
-Também estou estudando Swift para levar a experiência da MobSystem para iPhone e iPad.
+• Evolução da MobSystem como ERP SaaS para lojistas  
+• Desenvolvimento de funcionalidades para estoque, vendas e financeiro  
+• Automação de processos operacionais  
+• Aplicação de IA em atendimento, vendas, produto e gestão  
+• Estudos e experimentos com desenvolvimento assistido por IA  
+• Melhoria contínua de produto e experiência do usuário  
+• Busca por oportunidades em tecnologia, produto e liderança técnica  
 
 ---
 
 ## 🧩 Minha forma de pensar produto
 
-Eu acredito que tecnologia boa não é a mais complicada, é a que resolve o problema com clareza.
+Acredito que tecnologia boa não é a mais complicada. É a que resolve o problema com clareza.
 
-Minha visão de produto vem da prática:
+Minha visão de produto vem da prática.
 
 Antes de criar uma funcionalidade, eu olho para a dor da operação.  
 Antes de pensar em tela bonita, eu penso se o usuário vai entender o que precisa fazer.  
 Antes de adicionar complexidade, eu tento remover desperdício.  
+Antes de entregar uma solução, eu tento entender se ela realmente melhora a rotina de quem usa.
 
-É aqui que minha base em T.I., minha vivência em loja e minha visão de gestão se encontram.
+É aqui que minha base em tecnologia, minha vivência em operação e minha visão de negócio se encontram.
 
 ---
 
